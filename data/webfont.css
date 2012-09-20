@@ -1,0 +1,9 @@
+@font-face {
+font-family:'Zawgyi-One';
+src:local('Zawgyi-One'),url('./zawgyi.ttf');
+}
+
+@font-face {
+font-family:'MON3 Anonta 1';
+src:local('MON3 Anonta 1'),url('./mon3.ttf');
+}
