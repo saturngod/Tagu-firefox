@@ -1,9 +1,9 @@
 @font-face {
 font-family:'Zawgyi-One';
-src:local('Zawgyi-One'),url('./zawgyi.ttf');
+src:local('Zawgyi-One'),url('resource://jid1-wnoowfelxhqekq-at-jetpack/tagu/data/zawgyi.ttf');
 }
 
 @font-face {
 font-family:'MON3 Anonta 1';
-src:local('MON3 Anonta 1'),url('./mon3.ttf');
+src:local('MON3 Anonta 1'),url('resource://jid1-wnoowfelxhqekq-at-jetpack/tagu/data/mon3.ttf');
 }

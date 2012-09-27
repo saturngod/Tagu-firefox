@@ -88,6 +88,8 @@ var tagPage = function()
      }
 }
 
+//load pages
+
 tagPage();
 
 document.body.addEventListener("DOMNodeInserted", function () {
