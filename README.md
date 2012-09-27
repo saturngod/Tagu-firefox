@@ -13,6 +13,10 @@ Firefox addon SDK https://addons.mozilla.org/en-US/developers/builder
 	
 #Log
 
+##1.1.4
+
+	* fixed CSS with resource path
+
 ##1.1.2
 
 	* detach background worker
