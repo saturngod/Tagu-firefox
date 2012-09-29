@@ -89,10 +89,9 @@ var tagPage = function()
 }
 
 //load pages
-
 tagPage();
 
-document.body.addEventListener("DOMNodeInserted", function () {
+window.addEventListener("DOMNodeInserted", function () {
     if (timerID) {
         clearTimeout(timerID);
     }
