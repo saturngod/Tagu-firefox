@@ -2,8 +2,8 @@
     "name": "tagu", 
     "license": "MPL 2.0", 
     "author": "saturngod", 
-    "version": "1.1.5", 
+    "version": "1.9", 
     "fullName": "Tagu", 
     "id": "jid1-WnoOwfeLxhQEKQ", 
-    "description": "Detect Zawgyi and Unicode and include font embed. So, user no need to install zawgyi or unicode font to see Myanmar"
+    "description": "**It's design for firefox android that can't install myanmar unicode and zawgyi in unroot android.** Detect Zawgyi and Unicode and include font embed. So, user no need to install zawgyi or unicode font to see Myanmar. Not working with google.com and gmail now. It will be a bit slow for webpage loading."
 }
